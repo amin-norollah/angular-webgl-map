@@ -14,7 +14,7 @@ export class MapComponent implements AfterViewInit {
       {
         center: { lat: 37.7749, lng: -122.4194 },
         zoom: 18,
-        mapId: '90f87356969d889c',
+        mapId: 'test',
         tilt: 45,
         heading: 90,
       }
